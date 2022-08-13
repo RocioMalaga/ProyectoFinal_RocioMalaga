@@ -13,7 +13,7 @@ div{
         border-radius: 100%;
         box-shadow: 3px 3px 3px ;
         left: 3%;
-        top: 950px;
+        top: 820px;
     }
 }
 @media (max-width: 575px){
@@ -22,18 +22,8 @@ div{
         width: 30%;
         border-radius: 100%;
         box-shadow: 3px 3px 3px ;
-        left: 35%;
-        top: 1250px;
-    }
-}
-@media (max-width: 399px){
-    #fotodeperfil{
-        position: absolute;
-        width: 30%;
-        border-radius: 100%;
-        box-shadow: 3px 3px 3px ;
-        left: 35%;
-        top: 1270px;
+        left: 33%;
+        top: 1150px;
     }
 }
 
