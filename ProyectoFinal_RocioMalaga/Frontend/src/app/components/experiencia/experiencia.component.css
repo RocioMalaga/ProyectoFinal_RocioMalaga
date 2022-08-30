@@ -2,8 +2,16 @@
     padding: 20px;
 }
 div{
-    background-color: #989b9b;
+    background-color: #000000;
 }
 h1, h3{
     display: inline;
+    color: white;
+}
+td, h2{
+    color: white
+}
+td{
+    display: flex;
+    
 }
